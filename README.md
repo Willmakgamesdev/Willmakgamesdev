@@ -1,0 +1,4 @@
+-- Hi im Devin Seinfeld
+-- I am the owner of Willmakgamesdev
+-- Please ensure that no one is reading this right now
+-- Have a great day!
